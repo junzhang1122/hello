@@ -1,5 +1,6 @@
 /*
  *  ²Î¿¼drivers\mtd\nand\S3c2410.c
+ *
  */
 #include <linux/module.h>
 #include <linux/types.h>
